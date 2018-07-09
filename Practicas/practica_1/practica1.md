@@ -1,11 +1,13 @@
-##Práctica 1 
-###Instalación de maquinas virtuales
+
+## Práctica 1 
+
+### Instalación de maquinas virtuales
 He instalado las dos máquinas virtuales utilizando VMware Player 
 <p align="center">
 	<img scr=../Practicas/practica_1/img/1.png width=40%>
 </p>
 
-###Comprobamos la versión del servidor 
+### Comprobamos la versión del servidor 
 > apache2 -v 
 
 <p align="center">
