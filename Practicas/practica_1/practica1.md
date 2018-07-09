@@ -11,14 +11,14 @@ He instalado las dos máquinas virtuales utilizando VMware Player
 > apache2 -v 
 
 <p align="center">
-	<img src="../Practicas/practica_1/img/2.png" width=40%>
+	<img src="../practica_1/img/2.png" width=40%>
 </p>
 
 ### Creamos el archivo HTML hola.html en el directorio /var/www/html y accedemos a él usando cURL 
 > curl http://localhost/hola.html 
 
 <p align="center">
-	<img src="../Practicas/practica_1/img/3.png" width=40%>
+	<img src="../practica_1/img/3.png" width=40%>
 </p>
 
 
