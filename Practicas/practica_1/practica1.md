@@ -4,7 +4,7 @@
 ### Instalación de maquinas virtuales
 He instalado las dos máquinas virtuales utilizando VMware Player 
 <p align="center">
-	<img scr="../img/1.png" width=40%>
+	<img scr="https://github.com/maricicaP/swap/blob/master/Practicas/practica_1/img/1.png" width=40%>
 </p>
 
 ### Comprobamos la versión del servidor 
