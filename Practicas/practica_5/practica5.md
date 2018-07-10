@@ -152,6 +152,6 @@ siguiente orden:
 > mysql> SHOW SLAVE STATUS\G
 
 <p align="center">
-	<img src="../practica_5/img/7.png" width=40%>
+	<img src="../practica_5/img/8.png" width=40%>
 </p>
 
